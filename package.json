@@ -1,0 +1,10 @@
+{
+  "name": "ServicioRender_Docker_Yarn",
+  "packageManager": "yarn@4.14.1",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
